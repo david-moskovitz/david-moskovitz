@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvd8324483
+- 👋 Hi, I’m @david-moskovitz
 - 👀 I’m interested in javascript, react and firebase
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
