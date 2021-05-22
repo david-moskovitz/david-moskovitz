@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @david-moskovitz
-- 👀 I’m interested in javascript, react and firebase
-- 🌱 I’m currently learning react
+- 👀 I’m interested in JavaScript, typeScript, react and firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
